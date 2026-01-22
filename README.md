@@ -21,4 +21,4 @@ d) **Java Card** used in smart cards.
 
 5) Java was originally created by Sun Microsystems' "Green Team" to program embedded systems and electronic appliances, like set-top boxes and interactive televisions, focusing on the "Write Once, Run Anywhere" (WORA) principle for diverse hardware.
 
-
+NEED TO WORK ON THIS
